@@ -1,0 +1,10 @@
+// Parameters for SIFT:
+nOctaveLayers=3
+contrastThreshold=0.04
+edgeThreshold=10
+sigma=3.2
+
+// Parameters for SURF:
+hessianThreshold=10000
+nOctaves=3
+nOctaveLayers=1
